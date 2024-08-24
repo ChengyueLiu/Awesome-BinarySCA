@@ -24,3 +24,4 @@ wellcome to pull request and contribute to this repository.
 | [Product Security Platform](https://cybellum.com/)                                                                                          | Cybellum | Automotive, Medical |
 | [Black Duck Binary Analysis (BDBA)](https://www.synopsys.com/software-integrity/software-composition-analysis-tools/binary-analysis.html)   | Synopsys | All                 |
 | [Software Composition Analysis](https://www.scantist.com/products/sca)                                                                      | Scantist | All                 |
+| [Binary Software Composition Analysis (BSCA)](https://cloud.tencent.com/product/bsca)                                                       | Tencent  | All                 |
