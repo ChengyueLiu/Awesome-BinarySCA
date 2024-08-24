@@ -14,3 +14,13 @@ wellcome to pull request and contribute to this repository.
 | [B2SFinder: Detecting Open-Source Software Reuse in COTS Software](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=B2SFinder%3A+Detecting+Open-Source+Software+Reuse+in+COTS+Software&btnG=)                                                     | ASE   | 2019 | [B2SFinder](https://github.com/1dayto0day/B2SFinder)           |
 | [Identifying open-source license violation and 1-day security risk at large scale](https://dl.acm.org/doi/pdf/10.1145/3133956.3134048)                                                                                                                   | CCS   | 2017 | [OSSPolice](https://github.com/osssanitizer/osspolice/tree/master) |
 | [Finding Software License Violations Through Binary Code Clone Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+Software+License+Violations+Through+Binary+Code+Clone+Detection&btnG=)                                         | MSR   | 2011 | BAT       |
+
+
+## Commercial Tools
+
+
+| Tool                                                                                                                                        | Company  | Focus Industries    |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------|
+| [Product Security Platform](https://cybellum.com/)                                                                                          | Cybellum | Automotive, Medical |
+| [Black Duck Binary Analysis (BDBA)](https://www.synopsys.com/software-integrity/software-composition-analysis-tools/binary-analysis.html)   | Synopsys | All                 |
+| [Software Composition Analysis](https://www.scantist.com/products/sca)                                                                      | Scantist | All                 |
