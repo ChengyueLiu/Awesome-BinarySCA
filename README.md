@@ -1,6 +1,6 @@
 # Awesome-BinarySCA
-
-wellcome to pull request and contribute to this repository.
+This repository collect the research papers and commercial tools related to Binary Software Composition Analysis (Binary SCA) for C/C++ Ecosystem.
+wellcome to pull request to this repository.
 
 ## Research Papers
 
