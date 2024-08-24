@@ -22,30 +22,12 @@ and their versions within compiled executables, libraries, or firmware images. B
 composition at the binary level, organizations can effectively manage their software supply chain security and
 compliance, even in scenarios where access to source code is limited or non-existent.
 
-## Papers
-
-papers could be divided into two categories: Binary to Source and Binary to Binary.
-
-## Binary to Source
-
-upcoming...
-
-## Binary to Binary
-
-upcoming...
-
-## Tools
-
-Tools could be divided into two categories: Commercial and Research.
-
-### Commercial
-
-### Research
+## Research
 
 
-### TPL (Third Party Libraries) Corpus
-
-### Benchmark
-
-### Evaluation Matrix
+| Paper                                                                                                                                                                                                | Publication | Year | Tool                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------|--------------------------------------------------------------------|
+| [BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching](https://arxiv.org/pdf/2401.11161)                                                                       | ICSE        | 2024 | [BinaryAI](https://www.binaryai.cn/)                               |
+| [B2SFinder: Detecting Open-Source Software Reuse in COTS Software](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=B2SFinder%3A+Detecting+Open-Source+Software+Reuse+in+COTS+Software&btnG=) | ASE         | 2019 | [B2SFinder](https://github.com/1dayto0day/B2SFinder)               |
+| [Identifying open-source license violation and 1-day security risk at large scale](https://dl.acm.org/doi/pdf/10.1145/3133956.3134048)                                                               | CCS         | 2017 | [OSSPolice](https://github.com/osssanitizer/osspolice/tree/master) |
 
