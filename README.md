@@ -1,4 +1,7 @@
 # Awesome-BinarySCA
+![GitHub License](https://img.shields.io/github/license/ChengyueLiu/Awesome-BinarySCA)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 This repository collect the research papers and commercial tools related to Binary Software Composition Analysis (Binary SCA).
 wellcome to pull request to this repository.
 
